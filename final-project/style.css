@@ -57,3 +57,12 @@ a:hover {
 	width: 35%;
 	margin: 10px;
 }
+
+#picture {
+	float: left;
+	margin-right: 10px;
+}
+
+p {
+ color: white;
+}
