@@ -41,6 +41,10 @@ button {
 a {
 	color: purple;
 }
+
+a:hover {
+	color:black ;
+}
 .container {
 	display: flex;
 	flex-wrap: wrap;
