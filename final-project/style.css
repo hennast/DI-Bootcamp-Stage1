@@ -88,4 +88,22 @@ p {
 	margin-top: 0px;
 
 }
+ .purple {
+ 	background-color: purple;
+ 	height: 100px;
+ 	width: 36%;
+ 	margin-right: auto;
+ 	margin-left: auto;
+ }
+ .fun {
+ 	margin-top: 10px;
+ 	display: flex;
+ 	flex-direction: row;
+ 	margin: 4px;
+ }
+ .text {
+ 	height: 100px;
+ 	width: 20%;
+
+ }
 
