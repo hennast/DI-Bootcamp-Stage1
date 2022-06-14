@@ -1,0 +1,29 @@
+.pink {
+	
+	display: flex;
+	width: 24%;
+	flex-direction: column;
+	float: left;
+	padding-right: 2%;
+	
+}
+.left {
+	background-color: pink;
+	border: solid 1px;
+	margin: 10px;
+height: 150px;
+
+}
+.blue {
+	display: flex;
+	width: 74%;
+	flex-direction: column;
+	float: right;
+}
+.right {
+	background-color: blue;
+	border: solid 1px;
+	height: 150px;
+	margin: 10px;
+
+}
