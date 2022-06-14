@@ -66,3 +66,15 @@ a:hover {
 p {
  color: black;
 }
+
+.brave {
+	background: url(brave.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+.perfect {
+	font-size: 200pxs;
+	padding-top: 100 px;
+	margin-right: auto;
+	margin-left: auto;
+}
