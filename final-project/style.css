@@ -5,7 +5,8 @@ h1 {
 	color: black;
  text-align: center;
  border-bottom: solid;
- font-family: cursive;
+ font-family: serif;
+ margin-bottom: 1px;
 }
 h5 {
 	color: black;
@@ -68,13 +69,23 @@ p {
 }
 
 .brave {
+	margin-top: 0px;
 	background: url(brave.jpg);
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: cover;
+	text-align: center;
+	color: purple;
 }
-.perfect {
-	font-size: 200pxs;
-	padding-top: 100 px;
-	margin-right: auto;
-	margin-left: auto;
+.perfect p {
+		padding-top: 270px;
+	padding-left: 20%;
+	padding-right: 20%;
+	text-align: center;
+	color: purple;
+	font-size: 70px;
+	padding-bottom: 300px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+
 }
+
