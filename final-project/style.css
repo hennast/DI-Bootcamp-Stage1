@@ -26,10 +26,12 @@ h5 {
 .header {
 	background-color: whitesmoke;
 	color: black;
+	margin-top: 0px;
+	position: relative;
 }
 .header button{
 	float: right;
-	margin-top: 0px;
+	position: relative;
 	
 }
 h3 {
@@ -130,4 +132,14 @@ p {
 	width: 50%;
 	margin-left: 10px;
 	border-style: solid;
+}
+.footer {
+	background-color: whitesmoke;
+	height: 40px;
+	margin-top: 20px;
+	bottom: 5px;
+}
+.footer #menu {
+	float: right;
+	margin-bottom: 7px;
 }
