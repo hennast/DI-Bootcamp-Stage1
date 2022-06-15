@@ -8,6 +8,7 @@ h1 {
  font-family: serif;
  margin-bottom: 1px;
 }
+
 h5 {
 	color: black;
 	
@@ -19,13 +20,17 @@ h5 {
     width: 40%;
     border: black;
 }
+.pic:hover {
+	width: 50%;
+}
 .header {
 	background-color: whitesmoke;
 	color: black;
 }
 .header button{
 	float: right;
-	margin-top: 5px;
+	margin-top: 0px;
+	
 }
 h3 {
 	color: black;
@@ -109,6 +114,20 @@ p {
 
 .top {
 	display: flex;
-	width: 70%;
 	margin: 10px;
+}
+.top img{
+	width: 50%;
+	margin-right: 10px;
+	border-color: purple 40px;
+	border-style: solid;
+}
+.bottom {
+	display: flex;
+	margin: 10px;
+}
+.bottom img {
+	width: 50%;
+	margin-left: 10px;
+	border-style: solid;
 }
