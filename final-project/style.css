@@ -27,12 +27,10 @@ h5 {
 	background-color: whitesmoke;
 	color: black;
 	margin-top: 0px;
-	position: relative;
 }
 .header button{
 	float: right;
-	position: relative;
-	
+		
 }
 h3 {
 	color: black;
@@ -140,12 +138,14 @@ p {
 	margin-top: 20px;
 	position: fixed;
 	bottom: 0;
-	padding-right: 20%;
+	padding-right: 60%;
+	border-top: grey;
 
 }
 .footer #menu {
 	float: right;
 	margin-bottom: 7px;
 	position: fixed;
-	left: 70%;
+	right: 2px;
+	background-color: whitesmoke;
 }
