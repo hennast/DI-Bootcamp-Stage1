@@ -1,5 +1,5 @@
 body {
-	
+	margin-bottom: 10%;
 }
 h1 {
 	color: black;
@@ -41,6 +41,7 @@ h3 {
 #menu {
  margin: auto;
  width: 30%;
+ padding-bottom: 20%;
 
 }
 button {
@@ -137,9 +138,14 @@ p {
 	background-color: whitesmoke;
 	height: 40px;
 	margin-top: 20px;
-	bottom: 5px;
+	position: fixed;
+	bottom: 0;
+	padding-right: 20%;
+
 }
 .footer #menu {
 	float: right;
 	margin-bottom: 7px;
+	position: fixed;
+	left: 70%;
 }
